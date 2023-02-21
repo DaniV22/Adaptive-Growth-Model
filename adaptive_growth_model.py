@@ -1,10 +1,6 @@
 from random import choice
-import numpy as np
-import matplotlib.pyplot as plt
 from node import Node
 from cluster import Cluster
-from scatter import Scatter
-from random import random
 
 def create_cluster(max_iterations, Nm, eta):
 
