@@ -1,6 +1,5 @@
 # Adaptive-Growth-Model
-A cluster growth model, based on the Eden Model, that allows steady states. This project reproduces the results of the paper P. Meakin: *An Eden model for the growth of adaptive networks*,
-Physica A 179, 1991.
+A cluster growth model, based on the Eden Model, that allows steady states. This project reproduces the results of the paper "P. Meakin: *An Eden model for the growth of adaptive networks*, Physica A 179, 1991".
 
 ### The model
 
